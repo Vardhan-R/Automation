@@ -1,2 +1,2 @@
-# Bots
-[CONCEPTUAL] Bots for speed and/or manual labour.
+# Automation
+[CONCEPTUAL] Programs for speed and/or manual labour.
